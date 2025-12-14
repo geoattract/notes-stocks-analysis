@@ -1,5 +1,12 @@
 Here is the value investment analysis for **LMS Compliance Ltd (LMS.SI)** based on the Buffett/Munger framework.
 
+- **Date Analysed:** 14/12/25  
+- **Price:** $0.39  
+- **P/E:** 30x  
+- **P/B:** 5.39
+
+====
+
 ### **1. BUSINESS QUALITY**
 * **Core Business:** LMS Compliance provides laboratory testing, assessment, and certification services (Testing, Inspection, and Certification - TIC) primarily in Malaysia and Singapore, ensuring products meet safety and regulatory standards.
 * **Moat (Competitive Advantage):** **Narrow.** The business relies on accreditations (ISO 17025, ISO 17021) which create a barrier to entry, and high switching costs for clients who need consistent, recognized certification. However, it faces competition from other accredited labs.
