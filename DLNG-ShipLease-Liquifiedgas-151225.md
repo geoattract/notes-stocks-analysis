@@ -1,9 +1,9 @@
 Based on the analysis of **Dynagas LNG Partners LP (DLNG)** using the provided Finviz data and supplementary research, here is the value investment assessment.
 
 **Date Analysed:** 15/12/25
-**Price:** $3.76
-**P/E:** 2.43 - 3.14
-**P/B:** 0.35 - 0.36
+* **Price:** $3.76
+* **P/E:** 2.43 - 3.14
+* **P/B:** 0.35 - 0.36
 
 =======
 
