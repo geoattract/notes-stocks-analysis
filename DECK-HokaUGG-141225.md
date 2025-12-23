@@ -58,40 +58,73 @@ Psychological Brand Moat. HOKA has established a "functional necessity" niche in
 
 ---
 
-### STEP 5: DUAL-VALUATION ENGINE
+Certainly! Here's the markdown version of the provided text:
 
-**A. The Li Lu Ratio (ROTIC)**  
+---
+
+## STEP 5: DUAL-VALUATION ENGINE
+
+### A. The Li Lu Ratio (ROTIC)
+
 $$
-ROTIC = \frac{EBIT}{Total\,Assets - Cash - Goodwill - NIBCL}
-$$  
-Inputs:  
-- $EBIT = \$1.23B$  
-- $Assets = \$3.57B$  
-- $Cash = \$1.50B$  
-- $Goodwill = \$14M$  
-- $NIBCL = \$912M$  
-
-Math:  
+ROTIC = \frac{EBIT}{\text{Total Assets} - \text{Cash} - \text{Goodwill} - \text{NIBCL}}
 $$
-\frac{1.23}{3.57 - 1.50 - 0.014 - 0.912} = \frac{1.23}{1.144} = 107.5\%
-$$  
-Result: 107.5% (Target: $> 15\%$). Extremely high capital efficiency.
 
-**B. Calculation 1: Strict Valuation (3-Year Conservative)**  
-- Strict EBIT ($EBIT_{strict}$): (Avg 2023–2025) = $\$937M$  
-- Intrinsic Value: $(937M \times 15) + (1.5B - 0) = \$15.55B$  
-- Strict Valuation Gap:  
+**Inputs:**
+
+- $EBIT$: `$1.23B`
+- $Assets$: `$3.57B`
+- $Cash$: `$1.50B`
+- $Goodwill$: `$14M`
+- $NIBCL$: `$912M`
+
+**Math:**
+
+$$
+\frac{1.23}{3.57 - 1.50 - 0.014 - 0.912} = \frac{1.23}{1.144} \approx 107.5\%
+$$
+
+**Result:** *107.5\%* (Target: $$> 15\%$$). Extremely high capital efficiency.
+
+---
+
+### B. Calculation 1: Strict Valuation (3-Year Conservative)
+
+- **Strict EBIT ($EBIT_{strict}$):** Average 2023–2025 = `$937M`
+
+- **Intrinsic Value:**
+
+$$
+(937M \times 15) + (1.5B - 0) = \$15.55B
+$$
+
+- **Strict Valuation Gap:**
+
 $$
 1 - \frac{15.1B}{15.55B} = \mathbf{2.9\%}
 $$
 
-**C. Calculation 2: Normalized Valuation (Current Power)**  
-- Normalized EBIT ($EBIT_{norm}$): TTM EBIT = $\$1.23B$  
-- Intrinsic Value: $(1.23B \times 15) + 1.5B = \$19.95B$  
-- Normalized Valuation Gap:  
+---
+
+### C. Calculation 2: Normalized Valuation (Current Power)
+
+- **Normalized EBIT ($EBIT_{norm}$):** TTM EBIT = `$1.23B`
+
+- **Intrinsic Value:**
+
+$$
+(1.23B \times 15) + 1.5B = \$19.95B
+$$
+
+- **Normalized Valuation Gap:**
+
 $$
 1 - \frac{15.1B}{19.95B} = \mathbf{24.3\%}
 $$
+
+---
+
+Let me know if you'd like it formatted differently!
 
 ---
 
